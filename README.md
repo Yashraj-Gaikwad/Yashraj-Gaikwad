@@ -1,13 +1,13 @@
 # Hi there, I'm Yashraj Abhay Gaikwad! 👋
 
-🌟 Software Engineer | AI & Data Science Enthusiast | Open Source Contributor 🌟
+🌟 Software Engineer | Low Level Enthusiast | Open Source Contributor 🌟
 
 📍 Pune, Maharastra, India
 
 📞 +91 8830343912  
 📧 yashrajgaikwadcoder@gmail.com  
-🌐 [LinkedIn Profile]([YourLinkedInProfileLink](https://www.linkedin.com/in/yashraj-gaikwad-546343155/))  
-💻 [GitHub Profile]([YourGitHubProfileLink](https://github.com/Yashraj-Gaikwad))  
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/yashraj-gaikwad-546343155/)  
+💻 [GitHub Profile](https://github.com/Yashraj-Gaikwad)  
 
 ## About Me
 
@@ -77,7 +77,7 @@ I am a passionate and dedicated software engineer with expertise in a wide range
 
 ## Let's Connect!
 
-Feel free to reach out to me via [email](mailto:yashrajgaikwadcoder@gmail.com) or connect with me on [LinkedIn](YourLinkedInProfileLink). Let's collaborate and build amazing things together!
+Feel free to reach out to me via [email](mailto:yashrajgaikwadcoder@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yashraj-gaikwad-546343155/). Let's collaborate and build amazing things together!
 
 
 <!---
